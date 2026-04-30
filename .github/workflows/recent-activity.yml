@@ -9,11 +9,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 얘도 로그 덮어쓰려면 쓰기 권한 필요함
+      contents: write
     name: Update-Readme-Activity
     steps:
       - uses: actions/checkout@v4
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          README_FILE: "profile/README.md" # 리드미 파일이 profile 폴더 안에 있다면 이렇게 적어야 함!
+          README_FILE: "profile/README.md"

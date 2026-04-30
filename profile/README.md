@@ -13,9 +13,9 @@
 
 </p>
 
-> [hkimw(김현우)](https://github.com/hkimw) 개발소  
+> [hkimw](https://github.com/hkimw) underground lab  
 > 본계정 위에서 일하고, 여기 내려와서 논다.
-> 
+
 
 <!-- ======= 하이엔드 데이터 시각화 커널 (그래프 & 애니메이션) ======= -->
 <h2 align="center">Critical Grinding Metrics (Oscilloscope Mode)</h2>

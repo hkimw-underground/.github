@@ -1,81 +1,16 @@
-# Hyunwoo Kim Underground 🔬
-
-<!-- ======= 개발자 유머 (기믹형 동적 뱃지) ======= -->
-<h3 align="center">Critical Systems Dynamic Status</h3>
 <p align="center">
-  <!-- 커피 의존도 -->
-  <img src="https://img.shields.io/badge/Caffeine_Dependency-110%25-red?style=for-the-badge&logo=coffee&logoColor=white" alt="Caffeine" />
-  <!-- 스택오버플로우 의존도 -->
-  <img src="https://img.shields.io/badge/Stack_Overflow-Ctrl+C+%2F+Ctrl+V_Powered-orange?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" />
-  <!-- 리드미 빌드 상태 -->
-  <img src="https://img.shields.io/badge/Build-Works_On_My_Machine-success?style=for-the-badge" alt="BuildStatus" />
-  
-
+  <img src="./assets/underground-banner.svg" alt="Hyunwoo Kim Underground banner" width="100%" />
 </p>
 
-> [hkimw](https://github.com/hkimw) underground lab  
-> 본계정 위에서 일하고, 여기 내려와서 논다.
+<h1 align="center">Hyunwoo Kim Underground 🔬</h1>
 
-
-<!-- ======= 하이엔드 데이터 시각화 커널 (그래프 & 애니메이션) ======= -->
-<h2 align="center">Critical Grinding Metrics (Oscilloscope Mode)</h2>
-
-<!-- 본계정(hkimw) 기여도 그래프: 마치 오실로스코프 파형처럼 보여줌 -->
 <p align="center">
   <a href="https://github.com/hkimw">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkimw&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117" alt="Main Account Activity Graph" />
+    <img src="https://img.shields.io/badge/main-hkimw-7dd3fc?style=for-the-badge&logo=github&logoColor=white" alt="Main profile" />
   </a>
+  <img src="https://img.shields.io/badge/build-works_on_my_machine-238636?style=for-the-badge" alt="Build status" />
+  <img src="https://img.shields.io/badge/lab-underground-a78bfa?style=for-the-badge" alt="Underground lab" />
 </p>
-
-
-<!-- 독기 가득한 연속 커밋 추적기 -->
-<p align="center">
-  <a href="https://github.com/hkimw">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hkimw&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
-</p>
-
-
-
-<!-- ======= Real-time System Log ======= -->
-<h2 align="center">System Activity Log</h2>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!-- 사용 중인 코어 스택 (아이콘 자동 렌더링) -->
-<h3 align="center">Core Technology Stack</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,ubuntu,bash,verilog,fastapi,git,github&theme=dark" />
-  </a>
-</p>
-
-
-<!-- 하위 계정(hkimw-underground) 전용 기믹 배안 배치 -->
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <!-- ======= 3D Isometric Commit Graph ======= -->
-      <h2 align="center">Core Contribution Matrix</h2>
-      <p align="center">
-        <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Commit Graph" />
-      </p>
-    </td>
-    <td width="50%" align="center">
-      <!-- 시스템 로그형 랜덤 개발자 조크 -->
-      <p align="center">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0d1117" alt="Random Dev Joke" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-<a href="https://github.com/hkimw-underground">
-<img src="https://raw.githubusercontent.com/hkimw-underground/hkimw-underground/output/github-contribution-grid-snake-dark.svg" alt="Commit Snake Animation" height="160" />
-</a>
-</p>
-
 
 <p align="center">
   <b>AI · FPGA/NPU · WebGPU · 학교 과제가 어쩌다 커진 것들</b><br/>
@@ -90,6 +25,40 @@
   <a href="#en">EN</a> ·
   <a href="#projects">projects</a> ·
   <a href="#syu">syu</a>
+</p>
+
+---
+
+## Critical Grinding Metrics
+
+<p align="center">
+  <a href="https://github.com/hkimw">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkimw&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Main account activity graph" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/hkimw">
+    <img src="https://streak-stats.demolab.com?user=hkimw&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+  </a>
+</p>
+
+<h3 align="center">Core Technology Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,linux,ubuntu,bash,verilog,fastapi,git,github&theme=dark" alt="Core technology stack" />
+  </a>
+</p>
+
+<h3 align="center">Core Contribution Matrix</h3>
+<p align="center">
+  <img src="../profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/hkimw-underground">
+    <img src="https://raw.githubusercontent.com/hkimw-underground/.github/output/github-contribution-grid-snake-dark.svg" alt="Commit snake animation" height="160" />
+  </a>
 </p>
 
 ---
@@ -117,7 +86,7 @@ HW 개발은 신뢰가 1순위라 무작정 빠른 것보단 정확도가 먼저
 
 ---
 
-## 다루는 거 (a.k.a. 스택 자랑.)
+## 다루는 거
 
 - AI / LLM / local inference
 - FPGA · NPU · memory bottleneck
@@ -224,7 +193,7 @@ Not a clean shelf. Half-done stuff, sideways-grown stuff, stuff not ready for th
 
 ---
 
-## Stack (the part where I pretend to flex)
+## Stack
 
 - AI / LLM / local inference
 - FPGA · NPU · memory bottlenecks

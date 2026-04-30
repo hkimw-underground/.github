@@ -16,4 +16,5 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          README_FILE: "profile/README.md"
+        with:
+          TARGET_FILE: "profile/README.md"

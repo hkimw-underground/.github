@@ -8,13 +8,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 봇한테 쓰기 권한을 부여 (이게 없어서 403 뜬 거임)
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: hkimw # 여기를 github.repository_owner 대신 본계정으로 박아넣음
+          USERNAME: hkimw
       - name: Commit & Push
         run: |
           git config user.name github-actions

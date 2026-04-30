@@ -41,9 +41,6 @@
 <h2 align="center">System Activity Log</h2>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-<!--START_SECTION:activity-->
-<!-- 여기는 봇이 알아서 채우는 공간이니까 건드리지 마 -->
-<!--END_SECTION:activity-->
 
 <!-- 사용 중인 코어 스택 (아이콘 자동 렌더링) -->
 <h3 align="center">Core Technology Stack</h3>

@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/underground-banner.svg" alt="hkimw-underground banner" width="100%" />
-</p>
-
 <h1 align="center">👻 CODE LIFE.exe // hkimw-underground 🧪⚡</h1>
 
 <p align="center">

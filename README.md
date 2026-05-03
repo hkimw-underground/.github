@@ -1,12 +1,6 @@
-# Hyunwoo Kim Underground
-
-> 김현우의 지하 개발소.  
-> 404 polish not found. Systems still work.
+# Underground
 
 [hkimw](https://github.com/hkimw)의 비공식 실험/학교 프로젝트/프로토타입 아카이브입니다.  
-삼육대학교 재학 중 진행한 학교 프로젝트, AI 실험, FPGA/NPU 연구, WebGPU 시각화, LLM 병목 분석, 과하게 만들어진 학생 프로젝트를 정리합니다.
-
-> 본 계정은 개인의 학생 프로젝트 아카이브입니다.
 
 ## What lives here
 

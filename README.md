@@ -4,7 +4,7 @@
 
 ## What lives here
 
-- 삼육대 학교 프로젝트 / 캡스톤 기록
+- 학교 프로젝트 / 캡스톤 기록
 - AI / LLM inference 실험
 - FPGA/NPU / 지능형반도체 관련 실험
 - WebGPU/WebGL 시각화

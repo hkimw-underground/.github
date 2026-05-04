@@ -74,6 +74,13 @@
 
 ---
 
+## 📡 RECENT ACTIVITY
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <p align="center">
   <b>WORKS ON MY MACHINE.</b><br/>
   <sub>do not clean the lab bench.</sub>
